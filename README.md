@@ -35,10 +35,9 @@ npm run dev
 
 
 
-## Opis technologii
+## Technologie Frontendowe
 - React: popularna biblioteka JavaScript do tworzenia interfejsów użytkownika. Umożliwia budowanie dynamicznych i interaktywnych aplikacji internetowych.
 - Next.js: ramework dla React, który umożliwia renderowanie strony po stronie serwera (SSR) oraz generowanie stron statycznych. Zapewnia lepszą wydajność i optymalizację dla aplikacji React.
-- MongoDB: nierelacyjna baza danych, która używa dokumentów w formacie JSON. Jest elastyczna, skalowalna i zapewnia wysoką wydajność w obszarze przechowywania danych.
 - Tailwind: biblioteka CSS, która oferuje gotowe komponenty i narzędzia do tworzenia interfejsów użytkownika. Umożliwia szybkie tworzenie stylów i responsywnych układów.
 - Axios: JavaScript do wykonywania zapytań sieciowych (HTTP) w przeglądarce lub środowisku Node.js. Umożliwia łatwe wykonywanie żądań API i manipulację danymi HTTP.
 
