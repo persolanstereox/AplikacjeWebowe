@@ -1,0 +1,24 @@
+{
+  "titles": [
+    {
+      "id": 1,
+      "title": "Bachelor",
+      "type": "title"
+    },
+    {
+      "id": 2,
+      "title": "Engineer",
+      "type": "title"
+    },
+    {
+      "id": 3,
+      "title": "Master",
+      "type": "title"
+    },
+    {
+      "id": 4,
+      "title": "Ph.D",
+      "type": "title"
+    }
+  ]
+}
