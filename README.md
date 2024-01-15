@@ -12,8 +12,6 @@ Autorzy:
 
 ## URUCHAMIANIE PROJEKTU
 
-**Aby uruchomić ten projekt, konieczne jest otwarcie klienta i serwera osobno.**
-
 ### Backend
 1. Otwórz swoje IDE (np. IntelliJ) i zaimportuj folder backend jako projekt.
 2. Upewnij się, że masz zainstalowaną Javę w wersji 20 oraz narzędzie Maven.
